@@ -4,9 +4,9 @@ import Index from './pages/Index';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
 import ProductPage from "./pages/User/product/ProductPage";
-import ForgotPassword from "./pages/User/ForgotPassword/ForgotPassword";
-import VerifyPassword from "./pages/User/ForgotPassword/verifyPassword";
-import ResetPassword from "./pages/User/ForgotPassword/ResetPassword";
+import ForgotPassword from "./pages/User/forgotPassword/ForgotPassword";
+import VerifyPassword from "./pages/User/forgotPassword/verifyPassword";
+import ResetPassword from "./pages/User/forgotPassword/ResetPassword";
 import Wishlist from "./pages/User/Wishlist/Wishlist";
 import Cart from "./pages/User/Card/Cart";
 
