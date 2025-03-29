@@ -8,7 +8,7 @@ function Footer() {
     <footer>
       <div className="row primary">
         <div className="column about">
-          <h2>
+          <h2> 
             مــيـ<span style={{ color: "#ffc107" }}>ڤافــــــــ</span>ــــوود
           </h2>
 
