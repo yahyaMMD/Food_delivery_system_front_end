@@ -3,7 +3,7 @@ import "../App.css";
 import { Link } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import Navbar from "../components/navbar/Navbar";
-import Footer from "../components/footer/Footer";
+import Footer from "../components/Footer/footer";
 import { InputText } from "primereact/inputtext";
 import { Button } from "primereact/button";
 import { FloatLabel } from "primereact/floatlabel";

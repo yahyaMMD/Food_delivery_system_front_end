@@ -13,7 +13,7 @@ import {
   deleteFromWishlist,
 } from "../../../redux/wishlist/actions";
 import Navbar from "../../../components/navbar/Navbar";
-import Footer from "../../../components/footer/Footer";
+import Footer from "../../../components/Footer/footer";
 import Product from "../../../components/product/Product";
 import { Toast } from "primereact/toast";
 import { addToCart } from "../../../redux/cart/actions";

@@ -3,12 +3,12 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Index from './pages/Index';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
-import ProductPage from "./pages/User/product/ProductPage";
-import ForgotPassword from "./pages/User/forgotPassword/ForgotPassword";
-import VerifyPassword from "./pages/User/forgotPassword/verifyPassword";
-import ResetPassword from "./pages/User/forgotPassword/ResetPassword";
-import Wishlist from "./pages/User/wishlist/Wishlist";
-import Cart from "./pages/User/card/Cart";
+import ProductPage from "./pages/User/Product/ProductPage";
+import ForgotPassword from "./pages/User/ForgotPassword/ForgotPassword";
+import VerifyPassword from "./pages/User/ForgotPassword/verifyPassword";
+import ResetPassword from "./pages/User/ForgotPassword/ResetPassword";
+import Wishlist from "./pages/User/Wishlist/Wishlist";
+import Cart from "./pages/User/Card/Cart";
 
 function App() {
   return (
