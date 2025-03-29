@@ -1,0 +1,13 @@
+.section{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 20px;
+    margin-top: 56px;
+}
+
+.section a{
+    color: #333;
+    margin-right: 10px;
+    transition: color 0.3s ease;
+}
