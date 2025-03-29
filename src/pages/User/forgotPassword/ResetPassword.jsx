@@ -4,7 +4,7 @@ import "../../../App.css";
 import { Link } from "react-router-dom";
 import { useSelector, useDispatch } from "react-redux";
 import Navbar from "../../../components/navbar/Navbar";
-import Footer from "../../../components/Footer/footer";
+import Footer from "../../../components/footer/footer";
 import NotFound from "../../../components/NotFound/NotFound";
 import { InputText } from "primereact/inputtext";
 import { Button } from "primereact/button";
