@@ -5,7 +5,7 @@ import { Paginator } from "primereact/paginator";
 import Navbar from "../../../components/navbar/Navbar";
 import Footer from "../../../components/footer/Footer";
 import Product from "../../../components/product/Product";
-import NotFound from "../../../components/NotFound/NotFound";
+import NotFound from "../../../components/notFound/NotFound";
 import { Toast } from "primereact/toast";
 import {fetchWishlist, deleteFromWishlist} from "../../../redux/wishlist/actions"
 function Wishlist() {

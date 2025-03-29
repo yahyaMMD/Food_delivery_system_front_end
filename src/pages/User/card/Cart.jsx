@@ -3,7 +3,7 @@ import "./Cart.css";
 import { useDispatch, useSelector } from "react-redux";
 import Navbar from "../../../components/navbar/Navbar";
 import Footer from "../../../components/footer/Footer";
-import NotFound from "../../../components/NotFound/NotFound";
+import NotFound from "../../../components/notFound/NotFound";
 import { Button } from "primereact/button";
 import { InputText } from "primereact/inputtext";
 import { Dialog } from "primereact/dialog";
