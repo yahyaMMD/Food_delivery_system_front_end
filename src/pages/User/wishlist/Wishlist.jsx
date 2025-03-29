@@ -3,7 +3,7 @@ import "./Wishlist.css";
 import { useDispatch,useSelector } from "react-redux";
 import { Paginator } from "primereact/paginator";
 import Navbar from "../../../components/navbar/Navbar";
-import Footer from "../../../components/footer/footer";
+import Footer from "../../../components/footer/Footer";
 import Product from "../../../components/product/Product";
 import NotFound from "../../../components/NotFound/NotFound";
 import { Toast } from "primereact/toast";

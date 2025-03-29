@@ -6,7 +6,7 @@ import Carousel from "../components/carousel/CarouselComponent";
 import Section from "../components/section/Section";
 import Category from "../components/category/Category";
 import Product from "../components/product/Product";
-import Footer from "../components/footer/footer";
+import Footer from "../components/footer/Footer";
 import { fetchWishlist } from "../redux/wishlist/actions";
 import { fetchCategories } from "../redux/category/actions";
 import { fetchProducts } from "../redux/product/actions";
