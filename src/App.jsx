@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Index from './pages/Index';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
-import ProductPage from "./pages/User/Product/ProductPage";
+import ProductPage from "./pages/User/product/ProductPage";
 import ForgotPassword from "./pages/User/ForgotPassword/ForgotPassword";
 import VerifyPassword from "./pages/User/ForgotPassword/verifyPassword";
 import ResetPassword from "./pages/User/ForgotPassword/ResetPassword";
