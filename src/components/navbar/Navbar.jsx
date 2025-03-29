@@ -4,7 +4,7 @@ import { InputIcon } from "primereact/inputicon";
 import { InputText } from "primereact/inputtext";
 import { Button } from "primereact/button";
 import { Badge } from "primereact/badge";
-import "./navbar.css";
+import "./Navbar.css";
 import { Link } from "react-router-dom";
 import { useDispatch, useSelector } from "react-redux";
 import { fetchCart } from "../../redux/cart/actions";
